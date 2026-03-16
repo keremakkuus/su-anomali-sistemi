@@ -1,0 +1,4 @@
+2026-03-16 07:52:05,259 - INFO - 23 anomali tespit edildi
+2026-03-16 07:54:20,099 - INFO - 23 anomali tespit edildi
+2026-03-16 07:57:49,091 - INFO - 23 anomali tespit edildi
+2026-03-16 07:58:10,674 - INFO - Pipeline tamamlandi. 23 anomali tespit edildi.
